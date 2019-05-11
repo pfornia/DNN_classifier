@@ -8,5 +8,5 @@ Application idea, 'racetrack' file, and high-level algorithms pseudocode
 were provided as part of the course.
 All other content including code, the paper, and video are my own. 
 
-By Paul Fornia | [paulfornia.com](paulfornia.com)
+By Paul Fornia | [paulfornia.com](https://www.paulfornia.com)
 
